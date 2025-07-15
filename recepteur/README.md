@@ -1,4 +1,4 @@
-# Mode D'emploie
+# Mode d'emploi
 
 Il faut charger le script frequence_metre_003.ino sur une Arduino Uno
 
