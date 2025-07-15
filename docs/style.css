@@ -1,0 +1,28 @@
+
+canvas {
+  display: block;
+  margin: auto;
+}
+
+#application{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 900px;
+}
+
+#application > button{   
+  display: block;
+  margin: auto;
+  width: 600px;
+  font-size: x-large;  
+}
+
+#application > h1,h2{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  display: block;
+  margin: auto;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
